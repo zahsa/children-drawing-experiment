@@ -11,7 +11,7 @@ memory. Moreover, it is explained to them that they have not to copy the images 
 rather to draw what they know about the object. Hence, children are not biased with
 images they have observed and the visual information is merely provided as a way to
 trigger children’s mind about the questioned concept. All through the experiment, an
-instructor checks on children one by one an in case a chilf could not draw anything, the
+instructor checks on children one by one, and in case a child could not draw anything, the
 instructor talks to her and asks her question such as “how does the object look like?”, Or
 “what the object is used for?” 
 The stimuli set are selected in a way to contain both animate and inanimate objects but
