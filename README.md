@@ -1,4 +1,4 @@
-# children-drawing-experiment
+# children line drawing experiment
 
 The experiments are done on twenty seven children ages three from an Iranian
 kindergarten. They were assessed by asking to draw a sketch of an object. A prototypical
