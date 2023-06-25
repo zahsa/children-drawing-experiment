@@ -19,3 +19,6 @@ the images are selected in a way to be easily recognizable for children.
 
 Please cite the following paper if you utilize the dataset:
 Sadeghi, Zahra. "Childrens Line Drawings and Object Representation Strategies: Categorization of Childrens Mental Representation Strategies According to the Existing Theories for Object Recognition by Studying Line Drawings." International Journal of Signal Processing, Image Processing and Pattern Recognition 8.12 (2015): 39-48.
+
+# Citation
+Sadeghi, Zahra. "Children’s line drawings and object representation strategies: Categorization of children’s mental representation strategies according to the existing theories for object recognition by studying line drawings." International Journal of Signal Processing, Image Processing and Pattern Recognition 8.12 (2015): 39-48.
