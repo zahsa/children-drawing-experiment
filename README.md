@@ -1,6 +1,6 @@
 # children line drawing experiment
 
-The experiments are done on twenty seven children ages three from an Iranian
+The experiments are done on twenty seven children aging three from an Iranian
 kindergarten. They were assessed by asking to draw a sketch of an object. A prototypical
 image of each object was also shown on computer monitor and remained for about 30
 seconds to assure that children are aware of what they are asked to draw. When the image
